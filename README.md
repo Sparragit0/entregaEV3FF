@@ -35,6 +35,13 @@ Aplicación móvil de e-commerce enfocada en perfumes, conectada a microservicio
 - Pantalla de historial de pedidos (usuario autenticado).
 - Conversión de precio usando API externa **Frankfurter** (cambio CLP → USD/EUR).
 
+### Microservicios (Spring Boot)
+- Arquitectura desacoplada, cada servicio con su propio puerto.
+- Comunicación REST entre microservicios (RestTemplate).
+- Persistencia H2 en desarrollo.
+- Swagger UI en cada servicio.
+- Manejo básico de errores globales.
+
 ---
 
 ## 4. Endpoints Utilizados
