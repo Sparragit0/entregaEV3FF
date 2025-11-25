@@ -1,6 +1,13 @@
 # entregaEV3FF
 # FragranceFantasy – Plataforma Móvil + Microservicios
 
+# Links
+app= https://github.com/oriana02/AppFragranceFantasy
+inventario= https://github.com/Sparragit0/inventoryFF
+orden= https://github.com/Sparragit0/CarritoOrdenFF
+catalogo= https://github.com/oriana02/micro-perfume-fullstack
+usuario= https://github.com/oriana02/micro-usuario-App
+
 ## 1. Nombre del Proyecto
 **FragranceFantasy**  
 Aplicación móvil de e-commerce enfocada en perfumes, conectada a microservicios REST desarrollados en Spring Boot.
